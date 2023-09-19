@@ -225,8 +225,8 @@
    {
        "code":1,
        "msg":"success",
-       data:{
-           type:"superAdmin",
+       "data":{
+           "type":"superAdmin",
            "nickname":"张狗蛋",
            "jwt":"asabsabds.hjbhsjsa.saj182292282029.hshsuahsak"          
        }
