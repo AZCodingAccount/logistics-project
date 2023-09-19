@@ -214,7 +214,7 @@
 
    ```json
    {
-    "username":'xiaohei666',
+    "username":"xiaohei666",
     "password":"123456"
    }
    ```
@@ -224,10 +224,10 @@
    ```json
    {
        "code":1,
-       "msg":success,
+       "msg":"success",
        data:{
            type:"superAdmin",
-           nickname:'张狗蛋',
+           nickname:"张狗蛋",
            jwt:"asabsabds.hjbhsjsa.saj182292282029.hshsuahsak"          
        }
    }
