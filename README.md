@@ -227,8 +227,8 @@
        "msg":"success",
        data:{
            type:"superAdmin",
-           nickname:"张狗蛋",
-           jwt:"asabsabds.hjbhsjsa.saj182292282029.hshsuahsak"          
+           "nickname":"张狗蛋",
+           "jwt":"asabsabds.hjbhsjsa.saj182292282029.hshsuahsak"          
        }
    }
    
