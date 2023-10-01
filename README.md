@@ -20,29 +20,29 @@
 
 **用户查询页面**
 
-<img src=".\assets\image-20230919171342582.png" alt="image-20230919171342582" />
+<img src="https://my-picture-bed1-1321100201.cos.ap-beijing.myqcloud.com/mypictures/image-20230919171342582.png" alt="image-20230919171342582" />
 
 **用户登录完成的查询页面**
 
-<img src=".\assets\image-20230919172228178.png" alt="image-20230919172228178" />
+<img src="https://my-picture-bed1-1321100201.cos.ap-beijing.myqcloud.com/mypictures/image-20230919172228178.png" alt="image-20230919172228178" />
 
 #### 移动端适配
 
 **用户查询页面适配**
 
-<img src=".\assets\image-20230919172634900.png" alt="image-20230919172634900" style="zoom:50%;" />
+<img src="https://my-picture-bed1-1321100201.cos.ap-beijing.myqcloud.com/mypictures/image-20230919172634900.png" alt="image-20230919172634900" style="zoom:50%;" />
 
 **用户登录完成的查询页面适配：**
 
-<img src=".\assets\image-20230919173011443.png" alt="image-20230919173011443" style="zoom:50%;" />
+<img src="https://my-picture-bed1-1321100201.cos.ap-beijing.myqcloud.com/mypictures/image-20230919173011443.png" alt="image-20230919173011443" style="zoom:50%;" />
 
-<img src=".\assets\image-20230919173058540.png" alt="image-20230919173058540" style="zoom:50%;" />
+<img src="https://my-picture-bed1-1321100201.cos.ap-beijing.myqcloud.com/mypictures/image-20230919173058540.png" alt="image-20230919173058540" style="zoom:50%;" />
 
 **登录页面适配**
 
 
 
-<img src=".\assets\image-20230919173305875.png" alt="image-20230919173305875" style="zoom:50%;" />
+<img src="https://my-picture-bed1-1321100201.cos.ap-beijing.myqcloud.com/mypictures/image-20230919173305875.png" alt="image-20230919173305875" style="zoom:50%;" />
 
 ### 管理员篇
 
@@ -50,27 +50,27 @@
 
 **superAdmin主页**
 
-<img src=".\assets\image-20230919173806279.png" alt="image-20230919173806279" />
+<img src="https://my-picture-bed1-1321100201.cos.ap-beijing.myqcloud.com/mypictures/image-20230919173806279.png" alt="image-20230919173806279" />
 
 
 
 **更新表单**
 
-<img src=".\assets\image-20230919173923249.png" alt="image-20230919173923249" />
+<img src="https://my-picture-bed1-1321100201.cos.ap-beijing.myqcloud.com/mypictures/image-20230919173923249.png" alt="image-20230919173923249" />
 
 **查询全部物流信息**
 
 
 
-<img src=".\assets\image-20230919173956912.png" alt="image-20230919173956912" />
+<img src="https://my-picture-bed1-1321100201.cos.ap-beijing.myqcloud.com/mypictures/image-20230919173956912.png" alt="image-20230919173956912" />
 
 **查看所有员工**
 
-<img src=".\assets\image-20230919174123193.png" alt="image-20230919174123193" />
+<img src="https://my-picture-bed1-1321100201.cos.ap-beijing.myqcloud.com/mypictures/image-20230919174123193.png" alt="image-20230919174123193" />
 
 **更新客户信息**
 
-<img src=".\assets\image-20230919174211743.png" alt="image-20230919174211743" />
+<img src="https://my-picture-bed1-1321100201.cos.ap-beijing.myqcloud.com/mypictures/image-20230919174211743.png" alt="image-20230919174211743" />
 
 ## 项目亮点
 
@@ -85,17 +85,17 @@
 
 **项目功能基础流程图**
 
-<img src=".\assets\image-20230919180827235.png" alt="image-20230919180827235" />
+<img src="https://my-picture-bed1-1321100201.cos.ap-beijing.myqcloud.com/mypictures/image-20230919180827235.png" alt="image-20230919180827235" />
 
 
 
 **项目结构图：**
 
-<img src=".\assets\image-20230919182856954.png" alt="image-20230919182856954" />
+<img src="https://my-picture-bed1-1321100201.cos.ap-beijing.myqcloud.com/mypictures/image-20230919182856954.png" alt="image-20230919182856954" />
 
 **项目架构图：**
 
-<img src=".\assets\image-20230919181112170.png" alt="image-20230919181112170" />
+<img src="https://my-picture-bed1-1321100201.cos.ap-beijing.myqcloud.com/mypictures/image-20230919181112170.png" alt="image-20230919181112170" />
 
 - **约束**：
   - 用户名和密码为5-12位字母+数字的组合。
@@ -900,3 +900,5 @@
 7. 导入物流公司接口，实现数据的自动更新
 
 8. 将网站升级成https
+
+9. 给更新物理信息时添加的原子物流信息提供删除按钮
